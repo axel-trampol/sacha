@@ -15,7 +15,7 @@ animation:
   walk-cycle 1s steps(12) 24,
   walk-to-run .75s steps(12) 24s 1, 
   run-cycle .5s steps(13) 24.75s infinite;
-background: url(https://stash.rachelnabors.com/24ways2012/cat_sprite.png) 0 0 no-repeat;
+background: url(https://nsm09.casimages.com/img/2020/12/11//20121106494023832217167508.png) 0 0 no-repeat;
 height: 200px;
 width: 400px;
 position: absolute;
@@ -81,7 +81,7 @@ transform: translate3d(0,0,0);
 animation:
   parallax_fg 10s linear infinite,
   parallax_fg_fast 2s linear 24.75s infinite;
-background:  url(http://stash.rachelnabors.com/24ways2012/foreground_grass.png) 0 100% repeat-x;
+background:  url(https://nsm09.casimages.com/img/2020/12/11//20121106413023832217167500.png) 0 100% repeat-x;
 z-index: 3;
 }
 
@@ -99,7 +99,7 @@ z-index: 3;
 animation: 
   parallax_mg 20s linear infinite,
   parallax_mg_fast 5s linear 24.75s infinite;
-background:  url(http://stash.rachelnabors.com/24ways2012/midground_grass.png) 0 100% repeat-x;
+background:  url(https://nsm09.casimages.com/img/2020/12/11//20121106424823832217167501.png) 0 100% repeat-x;
 z-index: 2;
 }
 
@@ -114,11 +114,11 @@ z-index: 2;
 
 .background {
 background-image:
-  url(http://stash.rachelnabors.com/24ways2012/background_mountain5.png),
-  url(http://stash.rachelnabors.com/24ways2012/background_mountain4.png),
-  url(http://stash.rachelnabors.com/24ways2012/background_mountain3.png),
-  url(http://stash.rachelnabors.com/24ways2012/background_mountain2.png),
-  url(http://stash.rachelnabors.com/24ways2012/background_mountain1.png);
+  url(https://nsm09.casimages.com/img/2020/12/11//20121106433923832217167502.png),
+  url(https://nsm09.casimages.com/img/2020/12/11//20121106444923832217167503.png),
+  url(https://nsm09.casimages.com/img/2020/12/11//20121106455023832217167504.png),
+  url(https://nsm09.casimages.com/img/2020/12/11//20121106463023832217167505.png),
+  url(https://nsm09.casimages.com/img/2020/12/11//20121106472623832217167506.png);
 background-repeat: repeat-x;
 background-position: 0 100%;
 z-index: 1;
@@ -137,7 +137,7 @@ animation:
 }
 body {
   background: linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%),
-  #d2d2d2 url(http://stash.rachelnabors.com/24ways2012/background_clouds.png);
+  #d2d2d2 url(https://nsm09.casimages.com/img/2020/12/11//20121106483323832217167507.png);
   min-width: 100vh;
     height: 100vh;
     background-color: rgba(0, 0, 0, 0.425);
